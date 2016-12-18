@@ -8,3 +8,4 @@ commands:
   customenchantments:
    description: The main command for Custom Enchantments
    aliases: [ce]
+
